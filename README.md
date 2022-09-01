@@ -1,1 +1,40 @@
 # the-social-network-api
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Installation](#installation)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+
+
+
+## General Info
+
+
+## Technologies
+Project is created with:
+- JavaScript
+- Mongoose
+- MongoDB
+- Express
+- Node.Js
+
+## Installation
+
+``` terminal
+git clone git@github.com:DeRomuald/social-network-api.git
+
+npm install
+
+node server.js
+```
+ http:// locahost:3001 to view in browser
+
+## Acknowledgements
+- This project was inspired by UM Coding Boot Camp.
+
+## Contacts
+Created by:
+- [Rome Romulus](https://github.com/DeRomuald).
+# social-network-api

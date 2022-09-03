@@ -10,7 +10,7 @@
 
 
 ## General Info
-
+An API for a social network web application where users can share their thoughts, react to thoughts, and create a friends list.
 
 ## Technologies
 Project is created with:
